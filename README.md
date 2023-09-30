@@ -15,6 +15,7 @@ https://github-msr.github.io/Hacker_Theme_Website/
 
 
 ➡️ AI Tools Blog Website :
+https://github-msr.github.io/AI_Tools_Blog_Website/
 ![](https://github.com/GITHUB-MSR/AI_Tools_Blog_Website/blob/main/Demo%20AI%20Tools%20Blog%20Website.gif)
 
 ➡️ Personal Task Manager :
