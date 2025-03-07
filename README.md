@@ -2,7 +2,7 @@
 
 MANDAPALLI ABHILASHA
 
-This Is My Personal-Portfolio 😄
+This Is My Personal-Portfolio 
 
 These are the links to my all my website's till today, some of them are still in development 👷‍♂️
 link ⬇️ :
